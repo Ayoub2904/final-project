@@ -1,0 +1,273 @@
+html, body {
+  font-family : 'Baskerville', serif;
+  }
+  ul {
+  position : relative;
+  margin : 0 auto;
+  padding : 4% 2%;
+  left : 259px;
+  }
+  li {
+  display : inline;
+  padding-right : 83px;
+  }
+  a {
+  color : #FFFFFF;
+  text-decoration : none;
+  font-size : 30px;
+  letter-spacing : 1.5px;
+  }
+  #logo {
+  position : absolute;
+  margin : 0 auto;
+  padding : 2%;
+  }
+  #thumbnail {
+  margin: 0 auto;
+  margin-top: -300px;
+  margin-bottom: 5%;
+  background-size: cover;
+  background: transparent;
+  width : 100%;
+  }
+  button {
+  position : absolute;
+  margin: 0 auto;
+  margin-top : 2em;
+  left : 32em;
+  background-color : transparent;
+  border : white solid 2px;
+  color : white;
+  padding : 15px 32px;
+  font : normal normal normal 20px/20px Beirut;
+  text-align : center;
+  cursor : pointer;
+  }
+  h1 {
+  color : #FFFFFF;
+  opacity : 0.9;
+  margin: 0 auto;
+  text-align: center;
+  font-size : 80px;
+  margin-top: 5%;
+  }
+  p {
+  font-size : 30px;
+  text-align : left;
+  }
+  .sub-text {
+  margin: 0 auto;
+  margin-top: 5%;
+  color : #707070;
+  text-align: center;
+  letter-spacing : 1.5px;
+  font : italic normal normal normal 30px/33px Baskerville;
+  opacity : 0.75;
+  }
+  h2 {
+  font-size : 70px;
+  letter-spacing : 3.5px;
+  text-align : center;
+  }
+  .text-wrap {
+  margin: 0 auto;
+  width : 745px;
+  height : 251px;
+  margin : 30px;
+  margin-left : 25%;
+  }
+  .text-wrap p {
+  margin-bottom : 50px;
+  }
+  .biografie {
+  display: block;
+  width : 380px;
+  height : 308px;
+  float: left;
+  margin-left: 23%;
+  }
+  .biografie p {
+  font-size : 20px;
+  }
+  .biografie-2 {
+  display: block;
+  width : 380px;
+  height : 208px;
+  margin-left: 2%;
+  float: left;
+  }
+  .biografie-2 p {
+  font-size : 20px;
+  }
+  h4 {
+  font : normal bold normal 20px/23px "PT Sans";
+  }
+  h5 {
+  font-size : 30px;
+  font-weight : bold;
+  letter-spacing : 0.5px;
+  margin-top : 5%;
+  margin-bottom : -2%;
+  }
+  .highlights {
+  padding-top : 30%;
+  }
+  .block {
+  width : 314px;
+  }
+  .column {
+  float : left;
+  padding : 23px;
+  margin-top : 60px;
+  margin-bottom : 100px;
+  }
+  .clear {
+  clear: both;
+  }
+  #people {
+  width : 100%;
+  }
+  .amsterdam {
+  margin-top : -30%;
+  }
+  .amsterdam p {
+  margin: 0 auto;
+  width : 598px;
+  padding : 20px 20px;
+  font-size : 20px;
+  margin-left : 50%;
+  }
+  .amsterdam img {
+  float : left;
+  margin-left : 80px;
+  margin-top : -20px;
+  margin-bottom : 100px;
+  }
+  .amsterdam .sub-text {
+  margin: 0 auto;
+  font: italic normal normal normal 30px/33px Baskerville;
+  letter-spacing: 1.5px;
+  color: #707070;
+  text-align: center;
+  }
+  .column-2 {
+  margin-top : 108px;
+  }
+  #thumbnail-2 {
+  margin-top : -300px;
+  width : 100%;
+  }
+  .head-block {
+  position : absolute;
+  display : block;
+  background : white;
+  margin-top : -500px;
+  left : 220px;
+  width : 1000px;
+  height : 500px;
+  }
+  .head-block img {
+  margin-left : 7%;
+  }
+  h3 {
+  width : 938px;
+  height : 123px;
+  font : normal bold normal 40px/42px "PT Sans";
+  text-align : center;
+  margin : 0 auto;
+  padding : 10%;
+  }
+  article {
+  margin : 0 auto;
+  width : 1100px;
+  height : 982px;
+  text-align : left;
+  font-size : 20px;
+  letter-spacing : 0.4px;
+  }
+  article p {
+  padding-top : 25px;
+  }
+  b {
+  font-weight : bold;
+  }
+  .italic {
+  font-style : italic;
+  }
+  #lever {
+  margin-top : 70px;
+  margin-left : 15%;
+  }
+  .rode-tekst {
+  width : 525px;
+  font : normal bold normal 20px/30px "PT sans";
+  text-align : center;
+  letter-spacing : 0.4px;
+  color : #FF0014;
+  margin: 0 auto;
+  left : 260px;
+  }
+  .quote {
+  margin: 0 auto;
+  margin-top : -200px;
+  margin-bottom: 200px;
+  text-align : center;
+  font : normal bold normal 25px/20px "PT sans";
+  }
+  article a {
+  text-align : left;
+  text-decoration : underline;
+  font : normal normal normal 20px/30px "PT sans";
+  letter-spacing : 0.4px;
+  color : #092ECB;
+  }
+  #vacuum-2 {
+  float : left;
+  margin : 0 auto;
+  margin-left : 10%;
+  margin-top : -25%;
+  }
+  .vacuum-2 p {
+  margin: 0 auto;
+  float : left;
+  margin-left : -28em;
+  margin-bottom : 60px;
+  }
+  #meat {
+  float : right;
+  margin-right : 15%;
+  margin-top : -30%;
+  }
+  .meat p {
+  float : right;
+  margin-right : 195px;
+  margin-top : -7px;
+  }
+  .white {
+  margin : -30em;
+  }
+  .white-2 {
+  margin : -20em;
+  }
+  .erik {
+  margin: 0 auto;
+  display: block;
+  float : left;
+  margin-left: 20em;
+  }
+  .sema {
+  margin: 0 auto;
+  margin-right: 20em;
+  float : right;
+  display: block;
+  }
+  .grey {
+  margin: 0 auto;
+  font-size : 20px;
+  letter-spacing : 0.4px;
+  color : #707070;
+  }
+
+  #koen {
+    margin-bottom: -25px;
+  }
